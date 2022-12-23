@@ -1,0 +1,44 @@
+<head>
+
+	<title> The Newtons Method </title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript" src='newton.js'></script>
+
+</head>
+
+<body>
+
+	<header>
+
+		<h1> Solving a scalar equation by Newton's method </h1>
+
+	</header>
+
+	<main>
+
+		<form action="">
+
+				<input type='text' id='eqt' placeholder="Equation" required>
+
+				<input type='text' id='firstRoot' placeholder="First Root" required>
+
+				<input type='text' id='secondRoot' placeholder="Second Root" required>
+
+				<input type='text' id='precision' placeholder="To the point:" required>
+
+				<button onclick="newtonMethod(); return false;"> Find the Root </button>
+
+		</form>
+
+	</main>
+
+	<section id='tableContain'>
+
+		<!-- here will be a table with iterations after the script execution -->
+
+	</section>
+
+</body>
+
+
