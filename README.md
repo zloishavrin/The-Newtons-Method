@@ -1,4 +1,4 @@
-# Newtons-Method
+# Newtons Method
 Finding the root of a function by Newton's method.
 Used to refine the root of the equation f(x)=0 with a given accuracy ε.
 
