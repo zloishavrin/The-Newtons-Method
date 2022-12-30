@@ -22,3 +22,5 @@ The toMath function turns mathematical functions into js-functions of the built-
 
 The derivative is calculated as the limit of the ratio of the increment of a function to its argument: lim(∆y/∆x).
 
+# Preview
+You can use the online Newton's Method solution [here](https://zloishavrin.github.io/The-Newtons-Method/).
